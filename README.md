@@ -202,7 +202,7 @@ Set-ExecutionPolicy RemoteSigned
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 
 ### 😸 DESARROLLADORES
-<a href="https://github.com/GataNina-Li/GataBotLite-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=GataNina-Li/GataBotLite-MD" /> 
+<a href="https://github.com">
+<img src="https://contrib" /> 
 </a>
 
