@@ -49,8 +49,8 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-git clone https://github.com/GataNina-Li/GataBotLite-MD 
-cd GataBotLite-MD
+git clone https://github.com/fartovii2311/9991
+cd 9991
 yarn install
 npm install
 npm start
@@ -130,7 +130,7 @@ npm install -g ffmpeg imagemagick git yarn && npm i && node --no-warnings index.
 - **Registrarse:** [`Aquí`](https://dahs.hostingpy.shop/register?ref=GataDios)
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
 - **Comunidad:** [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-- **Contacto:** [`AdrianOficial`](https://wa.me/595976126756)
+- **Contacto:** [`AdrianOficial`](https://wa.me/+79883576985)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - GataBotLite-MD**</summary><img src="https://i.imgur.com/kScB4D5.png"></details>
 -----
